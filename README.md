@@ -3,6 +3,9 @@ A collection of various useful and highly-involved projects coded entirely by my
 
 These represent a demostration of various coding skills in python.
 
+![GUI](https://user-images.githubusercontent.com/57423877/68264047-dfa19800-0004-11ea-9cec-299df24d5098.png)
+
+
 Mortage GUI -  Tool showing both GUI creation and useful mortage calculation for paying early
 Brute force - a demo of a type of brute force hacking program for passwords up to 8 letters long
 Excel Maker - Using excel modules, able to modify thousands of excel cells in moments to analyze or update data
