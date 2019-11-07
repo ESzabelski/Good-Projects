@@ -14,7 +14,8 @@ Excel Maker - Using excel modules, able to modify thousands of excel cells in mo
 
 Phone and email - A type of webpage extractor to show how to pull all emails and phone numbers off a webpage
 
-Resie and add logo - a type of photo manipulation, goes through and modifies all photos in a file, adding a watermark to them
+Resize and add logo - a type of photo manipulation, goes through and modifies all photos in a file, adding a watermark to them
 
 Word Counter - Great useful tool to add up all word useage in a huge documen to analyze word frequency
+![word count](https://user-images.githubusercontent.com/57423877/68349182-7a5bae80-00b9-11ea-8640-f444974e380d.png)
 
