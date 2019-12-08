@@ -19,3 +19,7 @@ Resize and add logo - a type of photo manipulation, goes through and modifies al
 Word Counter - Great useful tool to add up all word useage in a huge documen to analyze word frequency
 ![word count](https://user-images.githubusercontent.com/57423877/68349182-7a5bae80-00b9-11ea-8640-f444974e380d.png)
 
+Reversi - A text-based version of Reversi/Othello.  Playable against the computer.
+
+ReversiAI3- A program that includes various different AI algorithms to test against itself, runs hundreds of games to analyze stratgies
+(https://user-images.githubusercontent.com/57423877/70394909-d8302e80-19b6-11ea-92a7-bcd309f0aabc.png)
