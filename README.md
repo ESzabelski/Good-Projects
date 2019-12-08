@@ -22,8 +22,5 @@ Word Counter - Great useful tool to add up all word useage in a huge documen to 
 Reversi - A text-based version of Reversi/Othello.  Playable against the computer.
 
 ReversiAI3- A program that includes various different AI algorithms to test against itself, runs hundreds of games to analyze stratgies
-https://user-images.githubusercontent.com/57423877/70395081-7244a680-19b8-11ea-8edc-161cdaf234c5.jpg
-
-(https://user-images.githubusercontent.com/57423877/70395103-ab7d1680-19b8-11ea-94ce-0ba84b8cb653.png
-https://user-images.githubusercontent.com/57423877/70395103-ab7d1680-19b8-11ea-94ce-0ba84b8cb653.png
+[rev](https://user-images.githubusercontent.com/57423877/70395142-1595bb80-19b9-11ea-8b3c-727447910bce.png)
 .
