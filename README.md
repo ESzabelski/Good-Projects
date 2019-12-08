@@ -23,3 +23,4 @@ Reversi - A text-based version of Reversi/Othello.  Playable against the compute
 
 ReversiAI3- A program that includes various different AI algorithms to test against itself, runs hundreds of games to analyze stratgies
 (https://user-images.githubusercontent.com/57423877/70394909-d8302e80-19b6-11ea-92a7-bcd309f0aabc.png) 
+https://user-images.githubusercontent.com/57423877/70394979-9784e500-19b7-11ea-9a4d-cc74c5bf5d9e.png
