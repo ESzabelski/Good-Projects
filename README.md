@@ -16,12 +16,12 @@ Phone and email - A type of webpage extractor to show how to pull all emails and
 
 Resize and add logo - a type of photo manipulation, goes through and modifies all photos in a file, adding a watermark to them
 
-Word Counter - Great useful tool to add up all word useage in a huge documen to analyze word frequency
+Word Counter - Great useful tool to add up all word useage in a huge document to analyze word frequency
 ![word count](https://user-images.githubusercontent.com/57423877/68349182-7a5bae80-00b9-11ea-8640-f444974e380d.png)
 
 Reversi - A text-based version of Reversi/Othello.  Playable against the computer.
 
-ReversiAI3- A program that includes various different AI algorithms to test against itself, runs hundreds of games to analyze stratgies
+ReversiAI3- A program that includes various different AI algorithms to test against itself, runs hundreds of games to analyze strategies
 
 ![rev](https://user-images.githubusercontent.com/57423877/70395142-1595bb80-19b9-11ea-8b3c-727447910bce.png)
 
