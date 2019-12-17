@@ -26,3 +26,9 @@ ReversiAI3- A program that includes various different AI algorithms to test agai
 ![rev](https://user-images.githubusercontent.com/57423877/70395142-1595bb80-19b9-11ea-8b3c-727447910bce.png)
 
 
+Game of Life - Based on the biologic simulator of simple life, this is the base code to a visual simulation
+
+Game of Life Predator - Includes red predator cells that show a aggressive species that hunts down the regular cells
+
+Game of Life Expansion - This includes nutrient rich areas that pop up after an area is depopulated, leads to very interesting ecosystem simulation possiblilites.
+![image](https://user-images.githubusercontent.com/57423877/70965331-93f2fd00-204c-11ea-889b-99b2f9791bc1.png)
